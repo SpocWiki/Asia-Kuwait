@@ -40,11 +40,18 @@ markerFolder: ./Al_Asimah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah|Al_Asimah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.public|Al_Asimah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.internal|Al_Asimah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.protect|Al_Asimah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.private|Al_Asimah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.personal|Al_Asimah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Asimah.secret|Al_Asimah.secret]] 
+
+### #is_/same_as :: [Al_Asimah](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.md) 
+
+### #is_/same_as :: [Al_Asimah.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.public.md) 
+
+### #is_/same_as :: [Al_Asimah.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.internal.md) 
+
+### #is_/same_as :: [Al_Asimah.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.protect.md) 
+
+### #is_/same_as :: [Al_Asimah.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.private.md) 
+
+### #is_/same_as :: [Al_Asimah.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.personal.md) 
+
+### #is_/same_as :: [Al_Asimah.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah.secret.md)
 

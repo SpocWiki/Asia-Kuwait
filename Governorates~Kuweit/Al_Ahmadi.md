@@ -40,11 +40,18 @@ markerFolder: ./Al_Ahmadi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi|Al_Ahmadi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.public|Al_Ahmadi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.internal|Al_Ahmadi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.protect|Al_Ahmadi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.private|Al_Ahmadi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.personal|Al_Ahmadi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Ahmadi.secret|Al_Ahmadi.secret]] 
+
+### #is_/same_as :: [Al_Ahmadi](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.md) 
+
+### #is_/same_as :: [Al_Ahmadi.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.public.md) 
+
+### #is_/same_as :: [Al_Ahmadi.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.internal.md) 
+
+### #is_/same_as :: [Al_Ahmadi.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.protect.md) 
+
+### #is_/same_as :: [Al_Ahmadi.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.private.md) 
+
+### #is_/same_as :: [Al_Ahmadi.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.personal.md) 
+
+### #is_/same_as :: [Al_Ahmadi.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Ahmadi.secret.md)
 

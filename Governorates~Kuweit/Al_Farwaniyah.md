@@ -40,11 +40,18 @@ markerFolder: ./Al_Farwaniyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah|Al_Farwaniyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.public|Al_Farwaniyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.internal|Al_Farwaniyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.protect|Al_Farwaniyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.private|Al_Farwaniyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.personal|Al_Farwaniyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Farwaniyah.secret|Al_Farwaniyah.secret]] 
+
+### #is_/same_as :: [Al_Farwaniyah](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.public.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.internal.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.protect.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.private.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.personal.md) 
+
+### #is_/same_as :: [Al_Farwaniyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Farwaniyah.secret.md)
 

@@ -129,10 +129,4 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Kuwait|Kuwait]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]] 
+

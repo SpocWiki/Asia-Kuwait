@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit|Kuwait=Kuweit]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.public|Kuwait=Kuweit.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.internal|Kuwait=Kuweit.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.protect|Kuwait=Kuweit.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.private|Kuwait=Kuweit.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.personal|Kuwait=Kuweit.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/City/Kuwait=Kuweit.secret|Kuwait=Kuweit.secret]] 
+
+### #is_/same_as :: [Kuwait=Kuweit](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.public.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.internal.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.protect.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.private.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.personal.md) 
+
+### #is_/same_as :: [Kuwait=Kuweit.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli/City/Kuwait=Kuweit.secret.md)
+

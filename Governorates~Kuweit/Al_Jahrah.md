@@ -40,11 +40,18 @@ markerFolder: ./Al_Jahrah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah|Al_Jahrah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.public|Al_Jahrah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.internal|Al_Jahrah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.protect|Al_Jahrah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.private|Al_Jahrah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.personal|Al_Jahrah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Kuwait/Counties/Al_Jahrah.secret|Al_Jahrah.secret]] 
+
+### #is_/same_as :: [Al_Jahrah](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.md) 
+
+### #is_/same_as :: [Al_Jahrah.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.public.md) 
+
+### #is_/same_as :: [Al_Jahrah.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.internal.md) 
+
+### #is_/same_as :: [Al_Jahrah.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.protect.md) 
+
+### #is_/same_as :: [Al_Jahrah.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.private.md) 
+
+### #is_/same_as :: [Al_Jahrah.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.personal.md) 
+
+### #is_/same_as :: [Al_Jahrah.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Jahrah.secret.md)
 
