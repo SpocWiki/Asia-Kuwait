@@ -1,30 +1,29 @@
 ---
-location: [ 29.26 , 48.06 ] 
+location:
+  - 29.26
+  - 48.06
 type: geo-Region
 title: Mubarak_Al-Kabeer
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Mubarak_Al-Kabeer
-
+  - Mubarak_Al-Kabeer
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Mubarak_Al-Kabeer

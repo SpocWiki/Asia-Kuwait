@@ -1,36 +1,37 @@
 ---
 location:
-- 29.33
-- 48
+  - 29.33
+  - 48
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26942
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Kuwait
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Kuwait
-- Koweït
-- الكويت
-- 科威特
-- Кувейт
-- the State of Kuwait
-- el Estado de Kuwait
+  - Kuwait
+  - Koweït
+  - الكويت
+  - 科威特
+  - Кувейт
+  - the State of Kuwait
+  - el Estado de Kuwait
 Languages:
-- ar-KW
-- en
+  - ar-KW
+  - en
 ---
 
 
