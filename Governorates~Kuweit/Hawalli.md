@@ -40,17 +40,17 @@ markerFolder: ./Hawalli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hawalli](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli|Hawalli]] 
 
-### #is_/same_as :: [Hawalli.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.public|Hawalli.public]] 
 
-### #is_/same_as :: [Hawalli.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.internal|Hawalli.internal]] 
 
-### #is_/same_as :: [Hawalli.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.protect|Hawalli.protect]] 
 
-### #is_/same_as :: [Hawalli.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.private|Hawalli.private]] 
 
-### #is_/same_as :: [Hawalli.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.personal|Hawalli.personal]] 
 
-### #is_/same_as :: [Hawalli.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Hawalli.secret|Hawalli.secret]] 
 

@@ -76,3 +76,20 @@ demonym: Kuvajturbano
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kuwait%20City) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City|Kuwait,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.public|Kuwait,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.internal|Kuwait,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.protect|Kuwait,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.private|Kuwait,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.personal|Kuwait,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Kuwait/Governorates~Kuweit/Al_Asimah/Kuwait,City.secret|Kuwait,City.secret]] 
+
