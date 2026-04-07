@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::29.33] 
 [name::Kuwait=Kuweit] 
 State ::  
-Country :: [[../../../../Kuwait]]  
+Country :: [[../../../../Kuwait|Kuwait]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

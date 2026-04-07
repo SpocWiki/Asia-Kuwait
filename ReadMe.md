@@ -117,7 +117,7 @@ markerFolder: ./
 [Area-Land::17820] 
 Continent :: [[Asia]]  
 [VehicleCode::KWT] 
-Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]  
+Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit|Kuwait=Kuweit]]  
 ![[Kuwait/Emblem_of_Kuwait.svg|350]]  
 
 ![[Anthem-Kuwait.mp3]] 
