@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Farwaniyah/
 markerFolder: ./Al_Farwaniyah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

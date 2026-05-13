@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mubarak_Al-Kabeer/
 markerFolder: ./Mubarak_Al-Kabeer/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Kuwait=Kuweit]]
 markerFile: [[Kuwait=Kuweit]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
