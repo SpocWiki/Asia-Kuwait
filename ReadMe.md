@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 科威特国
 dv_UNTERM_French_Formal: l'État du Koweït
 dv_UNTERM_Russian: Кувейт
 dv_UNTERM_Russian_Formal: Государство Кувейт
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Kuwait]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: KW
 dv_ISO3: KWT
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+  - '[[../../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]'
@@ -348,17 +348,17 @@ dv_has_:
 dv_has_name_de: Kuwait
 dv_Area-Total: 17818
 dv_Area-Land: 17820
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: KWT
-dv_Capital: '[[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit|Kuwait=Kuweit]]'
+dv_Capital: '[[Counties/Hawalli/City/Kuwait=Kuweit|Kuwait=Kuweit]]'
 dv_Alcohol-l: 0.1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 48
 dv_has_place_latitude: 29.33
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
+- '[[../../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]'
@@ -846,7 +846,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Kuwait/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -869,10 +869,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Kuwait/Emblem_of_Kuwait.svg|350]]  
+![[Emblem_of_Kuwait.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kuwait.mp3|Anthem-Kuwait.mp3]]
-![[Kuwait/Flag_of_Kuwait.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Kuwait.mp3|Anthem-Kuwait.mp3]]
+![[Flag_of_Kuwait.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
@@ -884,7 +884,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ```leaflet
 id: Kuwait_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
